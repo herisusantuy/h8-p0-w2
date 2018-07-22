@@ -1,5 +1,5 @@
 // Soal 1
-var nama = 'Java';
+var nama = 'Heri';
 var peran = '';
 
 if (nama == '' && peran == ''){
